@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there the name is Ronin 
+# I choosed it because i'm just like a Rōnin (samurai without a master, also know as a wandering man) 
+# I love being free, working the way i like the time i like
 
 <!--
 **RoninDev13/RoninDev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
